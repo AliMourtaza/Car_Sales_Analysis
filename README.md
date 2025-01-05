@@ -19,4 +19,5 @@ In the initial data preparation phase, I performed the following tasks:
 - Data cleaning and formatting.
 
 ## Dashboard
-![image](https://github.com/user-attachments/assets/c159cccd-a8b2-49e2-8b8e-6e527fd740a8)
+![image](https://github.com/user-attachments/assets/3717deec-bbb5-4229-a037-ba58cbfb5f21)
+
